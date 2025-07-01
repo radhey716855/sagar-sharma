@@ -12,6 +12,6 @@ skills -----
 - 🐧 TECHNIKAL SKILLS : Kali Linux, Ubuntu, Bash Scripting , Parrot os , Window 
 - 🛡️ Cybersecurity: Burp Suite, OWASP Top 10, Bug Bounty , Computer Networking , Sql injection , Windows (os) ,Web application securtiy 
 - 📦 Tools: Git, GitHub, Postman, VS Code , Shodan , Nmap ,Subfinder , Subjack ,Wireshark , burpsuite , sqlmap , Cisco Packet Tracer , Subzy , gitdorker , ettercap ,
--  , Cursor , FFUF , WAFW00F , Whois , Amass , Dig , Httpx , Dirb , gobuster , Nuclei , nslookup ,
+-  , Cursor , FFUF , WAFW00F , Whois , Amass , Dig , Httpx , Dirb , gobuster , Nuclei , nslookup , 
 
  
